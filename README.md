@@ -4,3 +4,6 @@
 <h4 align="center"> I wanna be a developer actively communicate with you!😄</h4>
 
 ![Miae's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldoremiae-e&show_icons=true&theme=buefy)
+
+<!--[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={aldzltkfkdgo})](https://solved.ac/{aldzltkfkdgo})-->
