@@ -9,9 +9,10 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<br/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white"></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=Csharp&logoColor=white"></a>
 <br />
 </p>
 <h4 align="center"> :bookmark: Frontend </h4>
@@ -34,6 +35,15 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <br />
 </p>
+<h4 align="center"> :bookmark: Collaboration Tool </h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"/></a>
+</p>
+
+<br />
 
 <br/>
 <!--[![Solved.ac
