@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"/></a>
 </p>
-
+<br />
 <h2 align="center"> :gem: SSAFY :gem: </h2>
 <p align="center">
 🚒 VR 및 음성인식 기술을 이용한 지하철 재난 상황시 행동요령 교육 시뮬레이션 서비스 - SSAFY 7기 특화 프로젝트 우수상 1등 👑
