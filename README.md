@@ -50,8 +50,16 @@
 <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"/></a>
 </p>
 
-<br />
-
+<h2 align="center"> :gem: SSAFY :gem: </h2>
+<p align="center">
+🚒 VR 및 음성인식 기술을 이용한 지하철 재난 상황시 행동요령 교육 시뮬레이션 서비스 - SSAFY 7기 특화 프로젝트 우수상 1등 👑
+</p><p align="center">
+📸 Github 크롤링을 이용한 개발자 포트폴리오 디자인 제작 서비스 - SSAFY 7기 자율 프로젝트
+</p><p align="center">
+😀 웹 SNS을 활용한 가족을 위한 웹서비스 - SSAFY 7기 공통 프로젝트
+</p><p align="center">
+🍒 Vue를 활용한 영화추천 웹서비스 - SSAFY 7기 관통 프로젝트
+ </p>
 <br/>
 <!--[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={aldzltkfkdgo})](https://solved.ac/{aldzltkfkdgo})-->
